@@ -109,7 +109,9 @@ python manage.py runserver
 <p align="center">
 Login Page
 </p>
-<img src="https://github.com/Jauharmuhammed/django-login-home-usermanagement/blob/main/assets/Login%20page.png" width='50%'>  
+<p align="center">
+<img  src="https://github.com/Jauharmuhammed/django-login-home-usermanagement/blob/main/assets/Login%20page.png" width='50%'>  
+</p>
 </td>
 </table>
 <br/>
